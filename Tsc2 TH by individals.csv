@@ -1,0 +1,25 @@
+"","ID","Genotype","Duration","50","100","300"
+"1","GP 1","Tsc2_LE_Het","50-300ms (Mixed)",28.2,25,20.8
+"2","GP 1","Tsc2_LE_Het","Alone",28.2,21.1,16.5
+"3","GP 2","Tsc2_LE_WT","50-300ms (Mixed)",29.1,26.1,25.2
+"4","GP 2","Tsc2_LE_WT","Alone",30.2,25.8,19.9
+"5","GP 3","Tsc2_LE_Het","Alone",22.8,20.9,17
+"6","GP 4","Tsc2_LE_WT","Alone",24.4,25,22.4
+"7","GP 5","Tsc2_LE_Het","Alone",NA,24,18.7
+"8","GP 6","Tsc2_LE_WT","Alone",NA,NA,21.2
+"9","RP 1","Tsc2_LE_WT","50-300ms (Mixed)",25.9,23.8,20
+"10","RP 1","Tsc2_LE_WT","Alone",27.4,24.9,19
+"11","RP 2","Tsc2_LE_Het","50-300ms (Mixed)",26.8,23.9,NA
+"12","RP 2","Tsc2_LE_Het","Alone",23.9,19.4,17.2
+"13","RP 3","Tsc2_LE_Het","50-300ms (Mixed)",30.1,27.2,23.1
+"14","RP 3","Tsc2_LE_Het","Alone",31.2,27.8,25.9
+"15","RP 4","Tsc2_LE_WT","Alone",26.7,20.8,18.6
+"16","RP 5","Tsc2_LE_Het","50-300ms (Mixed)",20.4,17.9,16.8
+"17","RP 5","Tsc2_LE_Het","Alone",21,20.8,18.2
+"18","RP 6","Tsc2_LE_WT","50-300ms (Mixed)",26.5,22.7,19
+"19","RP 6","Tsc2_LE_WT","Alone",24.9,23,18.8
+"20","TP 1","Tsc2_LE_Het","Alone",25.3,22.4,18.2
+"21","TP 2","Tsc2_LE_WT","Alone",23.8,22.2,17.2
+"22","TP 3","Tsc2_LE_Het","Alone",NA,NA,27.3
+"23","TP 4","Tsc2_LE_WT","Alone",21.1,20.1,18.6
+"24","TP 5","Tsc2_LE_WT","Alone",NA,25.9,20.7

@@ -1,0 +1,22 @@
+"","ID","Genotype","Duration","50","100","300"
+"1","BP1","Fmr1-LE_KO","50-300 (Mixed)",34.8,30.5,26.9
+"2","BP1","Fmr1-LE_KO","Alone",30.1,26.8,20.9
+"3","BP2","Fmr1-LE_WT","50-300 (Mixed)",23.9,21.9,18.8
+"4","BP2","Fmr1-LE_WT","Alone",23.2,21.7,22.1
+"5","BP3","Fmr1-LE_KO","50-300 (Mixed)",26.8,25.1,20.2
+"6","BP3","Fmr1-LE_KO","Alone",26,24.5,23.5
+"7","BP4","Fmr1-LE_WT","50-300 (Mixed)",25.6,24,19.4
+"8","BP4","Fmr1-LE_WT","Alone",26.9,21.5,17.4
+"9","BP5","Fmr1-LE_KO","50-300 (Mixed)",28.5,25.8,21.8
+"10","BP5","Fmr1-LE_KO","Alone",28.6,29.6,27.4
+"11","BP6","Fmr1-LE_WT","50-300 (Mixed)",22.1,22.3,NA
+"12","BP6","Fmr1-LE_WT","Alone",27.7,25,18.4
+"13","LP1","Fmr1-LE_KO","50-300 (Mixed)",27.3,25.3,23
+"14","LP1","Fmr1-LE_KO","Alone",28.8,27.6,25.7
+"15","LP2","Fmr1-LE_WT","50-300 (Mixed)",24.9,21.7,16.6
+"16","LP2","Fmr1-LE_WT","Alone",25.5,21.8,16.9
+"17","LP3","Fmr1-LE_WT","Alone",NA,NA,21.7
+"18","LP4","Fmr1-LE_KO","Alone",NA,NA,24.1
+"19","LP5","Fmr1-LE_WT","Alone",NA,NA,22.2
+"20","LP6","Fmr1-LE_KO","Alone",NA,NA,25.1
+"21","Purple1","Fmr1-LE_WT","Alone",NA,NA,26.5
